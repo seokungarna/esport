@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "e-sportgames.se",
+    "titleTemplate": "%s",
+    "description": "Din hemkatalog för allt inom e-sport, generell gaming, men även brädspel",
+    "siteUrl": "https://e-sportgames.se",
+    "image": "/assets/stackrole.png",
+    "twitterUsername": "@e-sportgames.se"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
