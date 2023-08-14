@@ -35,3 +35,5 @@ För de som vill mäta sina strategiska färdigheter mot andra spelare runt om i
 ### Slutsats
 
 **Beyond all reason** har verkligen potentialen att bli en riktig pärla för fans av strategispel. Med sin nyskapande spelvärld, mångsidiga fraktioner, djupgående resursförvaltning och innovativa onlineläge ser det ut att erbjuda en engagerande och utmanande spelupplevelse. Genren för realtidsstrategispel kan mycket väl vara på väg mot ett spännande nytt kapitel, och vi ser med spänning fram emot att utforska allt som det kommande spelet har att erbjuda. Så håll ögonen öppna för releasen och gör dig redo att fördjupa dig i denna fascinerande värld av strategi och taktik.
+
+**För övrigt är BAR gratis att prova/spela just nu**, ladda ner spelet härifrån: <a href="https://www.beyondallreason.info/">https://www.beyondallreason.info/</a>
