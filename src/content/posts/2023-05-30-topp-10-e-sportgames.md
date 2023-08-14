@@ -2,7 +2,7 @@
 template: blog-post
 title: Topp 10 E-sportgames
 slug: /topp-10-e-sportgames
-date: 2022-12-01 20:00
+date: 2023-05-30 20:00
 description: Vi dundrar igenom de mest populära e-sportspelen för 2023. Håll i hatten!
 featuredImage: /assets/fortnite.jpg
 ---
