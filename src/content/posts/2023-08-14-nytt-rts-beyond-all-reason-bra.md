@@ -1,39 +1,39 @@
 ---
 template: blog-post
-title: Nytt RTS - Beyond all Reason (BAR)
-slug: /nytt-rts-beyond-all-reason-bra
-date: 2023-08-14 14:00
-description: Vi kollar in ett nytt lovande RTS, Beyond all Reason, förtkortat BAR. Påminner om klassikern Total Annihilation
-featuredImage: /assets/bar-example.webp
+title: Heroes of Might and Magic - Factory släppt
+slug: /homm3-factory-released
+date: 2024-01-14 14:00
+description: Äntligen har en efterlängtade expansionen Factory släppts till Heroes of Might and Magic 3
+featuredImage: /assets/Heroes-of-Might-and-Magic-III_-Horn-of-the-Abyss.webp
 ---
 
-### Beyond all Reason (BAR)
+### HOMM3
 
-I den snabbt föränderliga världen av dataspel är det alltid spännande när ett nytt strategispel gör sin entré. Den senaste heta nyheten för fans av realtidsstrategi (RTS) är ett kommande PC-spel som lovar att leverera en djupgående och engagerande upplevelse för spelare runt om i världen.  
+#### Information om HOMM3
+Heroes of Might and Magic III  (HOMM3)är ett av de mest ikoniska strategispelen som någonsin skapats. Med en kombination av taktisk strid, resursförvaltning och sagolik världsbyggande har detta spel lockat spelare världen över sedan dess första utgivning år 1999.  
+Det är ett spel som inte bara erbjuder en enastående spelupplevelse utan också ett fängslande äventyr in i en värld full av magi, legender och fantastiska varelser.
 
-I den här artikeln kommer vi att utforska några av de mest spännande aspekterna av det kommande RTS-spelet **Beyond all Reason** och hur det ser ut att skaka om genren på datorspelsmarknaden.
+Spelet utspelar sig i en fantasivärld där olika fraktioner strider om kontrollen över landet. Varje fraktion representeras av en unik ras, komplett med sina egna karaktäristika och fördelar. Spelare tar rollen som hjältar, som är ledare för arméer som de använder för att utforska kartan, bekämpa fiender och erövra territorier.
 
-### En Nyskapande Spelvärld
+#### Spelupplevelsen
+Grundläggande spelupplevelsen innebär att spelare måste balansera olika aspekter av spelet, inklusive att samla resurser, rekrytera arméer och ta strategiska beslut på slagfältet. Kärnan i spelet ligger i att utveckla sin hjälte och bygga upp sin armé för att möta de utmaningar som presenteras av motståndarna.
 
-Det kommande spelet introducerar en rik och mångfacetterad spelvärld som är fylld av detaljer och överraskningar. Från frodiga skogar till ödsliga öknar och karga bergsområden, kommer spelarna att försättas i en verklighetstroget utformad miljö som kommer att påverka deras strategiska beslut och taktiker. En väl genomtänkt spelvärld ger spelare möjligheten att utforska, anpassa och utnyttja terrängen till sin fördel, vilket skapar en djupare nivå av taktiskt tänkande och spännande spelupplevelse. Det utlovas också att allting i terrängen ska kunna förstöras vilket i teorin ska kunna leda till sk. "stalemates" fär ingen av sidorna kan vinna. Låter skoj i våra öron. Kanske dock inte passar så bra för e-sport scenen. Realism som att radar inte går igenom bergs-massiv och att nukes verkligen föröder terrängen utlovas också.
+#### Karaktärer och Fraktioner
+Heroes of Might and Magic III erbjuder ett brett spektrum av karaktärer och fraktioner att utforska och spela som. Varje fraktion har sina egna unika enheter, strukturer och speciella förmågor som ger spelarna olika strategiska möjligheter. Från mäktiga riddare till kraftfulla magiker, finns det en karaktär för alla spelstilar.
 
-### Två coola fraktioner
+#### Grafik och Musik
+Även om Heroes of Might and Magic III är ett äldre spel, har dess grafik och musik åldrats väl. Den detaljerade och färgglada estetiken i spelet fångar fantasin och tar spelarna med på en visuell resa genom fantasivärlden. Musik och ljudeffekter skapar en stämning som förstärker upplevelsen av att vara en del av en episk berättelse.
 
-Ett av de mest intressanta inslagen i RTS-spel överlag är de olika spelbara fraktionerna. De olika fraktionerna i **BAR** är **Armada** (upppenbarligen en vink till det kultförklarade spelet *Total Annhiliation*) och **Cortex**, vilket också låter som den ena fraktionen i *TA*, CORE.Hursom helst, varje fraktion erbjuder en unik spelstil, med sina egna styrkor, svagheter och specialenheter. Fraktionernas olikheter kommer att tvinga spelarna att anpassa sina strategier och anpassa sig till olika spelssituationer. Oavsett om du föredrar att använda överväldigande styrka, teknologisk överlägsenhet eller smygande taktiker, finns det en fraktion som passar din spelstil. I **BAR** utlovas mer än 400 enheter, med alla sin roll att fylla.
+#### Gemenskap och Arv
+Trots att det har gått över två decennier sedan dess ursprungliga utgivning, fortsätter Heroes of Might and Magic III att ha en levande och engagerad gemenskap av fans. Detta beror delvis på spelets djup och replay-värde, men också på det ständiga stödet från utvecklare och modders som fortsätter att skapa nytt innehåll och förbättringar för spelet.
 
-### Resursförvaltning och mångafald av enheter.
+### Horn of the Abyss
+Horn of the Abyss (HotA) är en sk. "fan-expansion" som bygger vidare på HOMM3, och det råder konsensus hos spelare av HOMM3 att denna expansion är en värdig uppföljare på spelet, så man kan säga att det är en officiella inofficiella expansionen av spelet. HotA enerbjuder en ny faction **Cove** vilken är en pirat-inspiread faction med allt från pirater till en gigantisk sjöorm som creatures. Expansionen innehåller också en uppsjö av nya artefakter, byggnader, monster, skatter osv.
 
-Ett viktigt element i varje RTS-spel är resursförvaltning. I Bar kör man en traditionell energi/metall förvaltning som igen påminner och *Total Annihilation*. Markenheter i form av bots och fordon såsom tanks finns i en uppsjö, men även enheter som ska strida på vatten, och i luften. Sedan hybridenheter som svävare utlovas. Genom spelet ska man givetvis forska fram starkare enheter, och detta sker genom ett traditionellt "tier-system" som tex. *Dawn of War 40k* använde. Givetvis finns det också en uppsjö av olika försvarsbyggnader från små lasertorn till gigantiska plasmakanonen som smälter igenom det mesta.
+#### Horn of the Abyss - Factory
+**Factory** är vad hela denna artikel kommer ner till, det är den senaste uppdateringen av HotA och (släpptes precis av utvecklarteamet)[https://heroes3wog.net/horn-of-the-abyss-v1-7-with-factory-was-released-full-changelog]. Factory är en ny steampunk inspirerad faction, men Hobbits som första enhet och TVÅ stycken Tier 7 enheter, en mäktig fågel och en gigantisk steam punk robot. Givetvis släpps också en hel drös nya monster, artfakter, heroes osv.
 
-![Plasmakanonen Ragnarök lär mosa det mesta](/assets/ragnarok.png)
+Heroes of Might and Magic 3 finns att köpa på Steam eller GoG för typ 50 spänn och HotA med Factory finns att ladda ner gratis (härifrån)[https://heroes3wog.net/horn-of-the-abyss/]
 
 
-### Innovativt Onlineläge
 
-För de som vill mäta sina strategiska färdigheter mot andra spelare runt om i världen, kommer det kommande spelet att erbjuda ett innovativt onlineläge. Spelarna kommer att kunna delta i tävlingsinriktade matcher och utmaningar, där deras strategiska beslut och färdigheter kommer att sättas på prov. Onlineläget kommer att erbjuda en långvarig spelupplevelse och möjlighet att stiga i rang genom att besegra andra spelare. Förhoppningsvis funkar detta lika bra som i tex. *Starcraft 2*.
-
-### Slutsats
-
-**Beyond all reason** har verkligen potentialen att bli en riktig pärla för fans av strategispel. Med sin nyskapande spelvärld, mångsidiga fraktioner, djupgående resursförvaltning och innovativa onlineläge ser det ut att erbjuda en engagerande och utmanande spelupplevelse. Genren för realtidsstrategispel kan mycket väl vara på väg mot ett spännande nytt kapitel, och vi ser med spänning fram emot att utforska allt som det kommande spelet har att erbjuda. Så håll ögonen öppna för releasen och gör dig redo att fördjupa dig i denna fascinerande värld av strategi och taktik.
-
-**För övrigt är BAR gratis att prova/spela just nu**, ladda ner spelet härifrån: <a href="https://www.beyondallreason.info/">https://www.beyondallreason.info/</a>
