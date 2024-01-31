@@ -31,9 +31,9 @@ Trots att det har gått över två decennier sedan dess ursprungliga utgivning, 
 Horn of the Abyss (HotA) är en sk. "fan-expansion" som bygger vidare på HOMM3, och det råder konsensus hos spelare av HOMM3 att denna expansion är en värdig uppföljare på spelet, så man kan säga att det är en officiella inofficiella expansionen av spelet. HotA enerbjuder en ny faction **Cove** vilken är en pirat-inspiread faction med allt från pirater till en gigantisk sjöorm som creatures. Expansionen innehåller också en uppsjö av nya artefakter, byggnader, monster, skatter osv.
 
 #### Horn of the Abyss - Factory
-**Factory** är vad hela denna artikel kommer ner till, det är den senaste uppdateringen av HotA och (släpptes precis av utvecklarteamet)[https://heroes3wog.net/horn-of-the-abyss-v1-7-with-factory-was-released-full-changelog]. Factory är en ny steampunk inspirerad faction, men Hobbits som första enhet och TVÅ stycken Tier 7 enheter, en mäktig fågel och en gigantisk steam punk robot. Givetvis släpps också en hel drös nya monster, artfakter, heroes osv.
+**Factory** är vad hela denna artikel kommer ner till, det är den senaste uppdateringen av HotA och [släpptes precis av utvecklarteamet](https://heroes3wog.net/horn-of-the-abyss-v1-7-with-factory-was-released-full-changelog). Factory är en ny steampunk inspirerad faction, men Hobbits som första enhet och TVÅ stycken Tier 7 enheter, en mäktig fågel och en gigantisk steam punk robot. Givetvis släpps också en hel drös nya monster, artfakter, heroes osv.
 
-Heroes of Might and Magic 3 finns att köpa på Steam eller GoG för typ 50 spänn och HotA med Factory finns att ladda ner gratis (härifrån)[https://heroes3wog.net/horn-of-the-abyss/]
+Heroes of Might and Magic 3 finns att köpa på Steam eller GoG för typ 50 spänn och HotA med Factory finns att ladda ner gratis [härifrån](https://heroes3wog.net/horn-of-the-abyss/)
 
 
 
