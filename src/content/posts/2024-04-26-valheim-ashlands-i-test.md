@@ -4,7 +4,7 @@ title: Valheim - Ashlands i test
 slug: /valheim-ashlands-i-test
 date: 2024-04-24 20:00
 description: En ny updatering av Valheim är runt hörnet, Ashlands.
-featuredImage: /assets/ashlands.jpg
+featuredImage: /assets/ashlands2.jpg
 ---
 
 ### Ashlands - En ny Biome
