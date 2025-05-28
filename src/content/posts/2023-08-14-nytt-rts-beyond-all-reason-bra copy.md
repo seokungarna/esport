@@ -4,7 +4,7 @@ title: Nytt RTS - Beyond all Reason (BAR)
 slug: /nytt-rts-beyond-all-reason-bra
 date: 2023-08-14 14:00
 description: Vi kollar in ett nytt lovande RTS, Beyond all Reason, förtkortat BAR. Påminner om klassikern Total Annihilation
-featuredImage: /assets/bar-example.webp
+featuredImage: ./bar-example.webp
 ---
 
 ### Beyond all Reason (BAR)
@@ -25,7 +25,7 @@ Ett av de mest intressanta inslagen i RTS-spel överlag är de olika spelbara fr
 
 Ett viktigt element i varje RTS-spel är resursförvaltning. I Bar kör man en traditionell energi/metall förvaltning som igen påminner och *Total Annihilation*. Markenheter i form av bots och fordon såsom tanks finns i en uppsjö, men även enheter som ska strida på vatten, och i luften. Sedan hybridenheter som svävare utlovas. Genom spelet ska man givetvis forska fram starkare enheter, och detta sker genom ett traditionellt "tier-system" som tex. *Dawn of War 40k* använde. Givetvis finns det också en uppsjö av olika försvarsbyggnader från små lasertorn till gigantiska plasmakanonen som smälter igenom det mesta.
 
-![Plasmakanonen Ragnarök lär mosa det mesta](/assets/ragnarok.png)
+![Plasmakanonen Ragnarök lär mosa det mesta](/assets/ragnarok.webp)
 
 
 ### Innovativt Onlineläge

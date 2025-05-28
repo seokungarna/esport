@@ -4,7 +4,7 @@ title: Speldesign
 slug: /speldesign
 date: 2020-05-23 23:40
 description: Hur man designar ett spel
-featuredImage: /assets/design.jpg
+featuredImage: ./design.jpg
 ---
 
 ### Hur man designar ett spel

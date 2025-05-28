@@ -4,7 +4,7 @@ title: Topp 10 E-sportgames
 slug: /topp-10-e-sportgames
 date: 2023-05-30 20:00
 description: Vi dundrar igenom de mest populära e-sportspelen för 2023. Håll i hatten!
-featuredImage: /assets/fortnite.jpg
+featuredImage: ./fortnite.jpg
 ---
 
 ### PlayerUnknown's Battlegrounds (PUBG)
@@ -16,7 +16,7 @@ Ni lär väl knappast ha missat det, men detta är ett battle royale-spel som ä
 ### League of Legends (LoL)
 En riktigt populär MOBA, och långkörare, där alla hardcore gamers och wannabe-proffs slåss om att vara bäst. Det är så stort att man kan säga att det är som att dra på sig en fotsvamp - det sprider sig överallt! Med League of Legends World Championship, eller som jag brukar kalla det, "VM för nördar", är det ingen tvekan om att spelet är en megahit. 2019 hade spelet 100 miljoner views på en och samma tävling! Det ni.
 
-![Apex Legends](/assets/apex.jpg)
+![Apex Legends](./apex.jpg)
 
 ### Apex Legends
 Apex Legends är Respawn Entertainments flaggskepp, ett gratis multiplayer Battle Royale-spel som spänner över flera plattformar och stöder plattformsspel mellan dem alla. Medan flera spelare initialt påpekade att spelet var en Fortnite-klon, slogs dessa påståenden snabbt ut efter att några viktiga uppdateringar rullade ut och gav några unika funktioner.
@@ -29,7 +29,7 @@ En gammal trotjänare som alltid levererar när det kommer till actionfyllda str
 ### Counter-Strike: Global Offensive (CS:GO)
 Ett råbarkat förstapersonsskjutarspel för de som älskar att skjuta sönder sina vänners egon. Med sin strategiska gameplay och häftiga headshots har CS:GO skapat en stor e-sportsgemenskap. Så ta fram din bästa aimbot och häng med på ESL Pro League och Intel Extreme Masters! CS:GO pressar en miljon spelare om dagen, för det mesta.
 
-![Valorant](/assets/valorant.jpg)
+![Valorant](./valorant.jpg)
 
 ### Valorant 
 Ett taktiskt förstapersonsskjutarspel för de som gillar att springa runt och skjuta på allt som rör sig. Med Riot Games i ryggen, som om de inte hade tillräckligt med pengar redan från League of Legends (se ovan), så har Valorant klättrat upp på e-sportstrappan och bjuder in till turneringar som Valorant Champions Tour. Spelarebasen växer fortfarande men har ändå sjunkit relativt andra titlar. Men de har ändå fler än Overwatch :D
@@ -40,7 +40,7 @@ I samma anda som Valorant, man väljer en klass med sina utnika färdigheter och
 ### Dota 2
 Ett annat MOBA-spel som konkurrerar med League of Legends om världsherraväldet. Det är som ett sjukt kärleksdrama, fast med monster och magi. Och snacka om pengar! The International, där världens bästa Dota 2-lag gör upp om de saftigaste prispengarna någonsin, kan få vilken lotterivinst som helst att blekna i jämförelse. Spelet har dock dalat när vi pratar om spelarbas, och hade sin peak 2015.
 
-![Pokémon GO](/assets/pokemon.jpg)
+![Pokémon GO](./pokemon.jpg)
 
 ### Pokémon GO / Pokémon Unite
 Medan Pokémon-serien är en mycket välkänd och gammal franchise, har deras satsning på den konkurrenskraftiga e-sportsidan av spel varit ganska ny i jämförelse. Ända sedan GameBoys era med länkkabel tog slut och vi gick vidare till äkta onlinefunktioner, har Pokémon kunnat visa upp mer av sin konkurrenskraftiga sida bortom lokala stridssessioner.  

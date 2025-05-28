@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: e-sportgames.se
 tagline: Din hemkatalog för allt inom e-sport, generell gaming, men även brädspel
-featuredImage: /assets/gamer.jpg
+featuredImage: ./gamer.webp
 cta:
   ctaText: Läs mer
   ctaLink: /om

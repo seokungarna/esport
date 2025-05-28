@@ -4,7 +4,7 @@ title: Witcher 3 får ett ansiktslyft
 slug: /witcher3-far-ett-ansiktslyft
 date: 2022-11-12 15:00
 description: Det utmärkta, och underbart vackra Witcher 3 får ett ansiktslyft i December. Vi har även ett releasedatum!
-featuredImage: /assets/witcher3.webp
+featuredImage: ./witcher3.webp
 ---
 
 ### Witcher 3 får ett ansiktslyft

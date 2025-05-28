@@ -4,7 +4,7 @@ title: Valheim - Mistlands på G
 slug: /valheim-mistlands-pa-g
 date: 2022-12-01 20:00
 description: En gigantisk uppdatering to spelet Valheim släpps i dagarna, och fokus ligger runt en ny Biome, Mistlands.
-featuredImage: /assets/mistlands.webp
+featuredImage: ./mistlands.webp
 ---
 
 ### Valheim - en ny Biome

@@ -4,7 +4,7 @@ title: Mycket mer än bara teknisk förvaltning
 slug: /mer-an-bara-teknisk-forvaltning
 date: 2021-08-10 23:40
 description: E-sport Gruppen fokuserar på teknisk fastighetsförvaltning av kommersiella fastigheter och har varit verksamma i över 20 år.
-featuredImage: /assets/gaming.jpg
+featuredImage: ./gaming.jpg
 ---
 
 ### Mycket mer än bara teknisk förvaltning ###

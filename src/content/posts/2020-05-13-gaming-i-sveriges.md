@@ -4,7 +4,7 @@ title: Gaming i Sverige
 slug: /gaming-asien
 date: 2020-05-13 12:55
 description: I Sverige är e-sport den största sporten?
-featuredImage: /assets/asien.jpg
+featuredImage: ./asien.jpg
 ---
  I Sverige är e-sport den största sporten, till och med större än fotboll. Detta säger vi egentligen helt utan belägg. Eller? Här beskriver vi i alla fall några grejer:
  ##Starcraft 2##

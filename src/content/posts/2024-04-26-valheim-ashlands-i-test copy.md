@@ -4,7 +4,7 @@ title: Valheim - Ashlands i test
 slug: /valheim-ashlands-i-test
 date: 2024-04-24 20:00
 description: En ny updatering av Valheim är runt hörnet, Ashlands.
-featuredImage: /assets/ashlands2.jpg
+featuredImage: ./ashlands2.webp
 ---
 
 ### Ashlands - En ny Biome
@@ -19,7 +19,7 @@ Det ryktas också om en boss som ska vara den svåraste hittils.
 
 Allt detta ser vi givetvis fram emot.
 
-![En stämningsfull bild av Ashlands](/assets/ashlands.jpg)
+![En stämningsfull bild av Ashlands](/assets/ashlands.webp)
 
 ### När släpps Ashlands?
 

@@ -4,7 +4,7 @@ title: Heroes of Might and Magic - Factory släppt
 slug: /homm3-factory-released
 date: 2024-01-14 14:00
 description: Äntligen har en efterlängtade expansionen Factory släppts till Heroes of Might and Magic 3
-featuredImage: /assets/Heroes-of-Might-and-Magic-III_-Horn-of-the-Abyss.webp
+featuredImage: ./Heroes-of-Might-and-Magic-III_-Horn-of-the-Abyss.webp
 ---
 
 ### HOMM3
